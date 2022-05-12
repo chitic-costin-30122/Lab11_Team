@@ -2,4 +2,6 @@
 Hai in echipa lui Costin 
 
 1) pe Trello facem taskurile
-2) Alegem un task din alea c3 c4 c5 etc.
+2) Avem proiectul C3
+3) Fiecare cu tasku lui. La final pull request si review.
+4) Merge
